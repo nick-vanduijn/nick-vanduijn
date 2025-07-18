@@ -1,4 +1,4 @@
-# 👋 Hi there, I'm Nick a **Student Full Stack Developer**
+# 👋 Nick van Duijn - **Student Full Stack Developer**
 
 I'm passionate about building Full Stack applications with a focus on TypeScript and Python. I love creating tools that enhance developer productivity and improve user experiences.
 
