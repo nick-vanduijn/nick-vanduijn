@@ -1,6 +1,9 @@
-# 👋 Nick van Duijn - **Student Full Stack Developer**
+<p align="center">
+  <img src="assets/header.png" alt="Nick van Duijn Header" width="100%" />
+</p>
 
-I'm passionate about building Full Stack applications with a focus on TypeScript and Python. I love creating tools that enhance developer productivity and improve user experiences.
+
+I'm passionate about building Full Stack applications with a focus on TypeScript and Rust. I love creating tools that enhance developer productivity and improve user experiences through innovative solutions. 
 
 ## Featured Projects
 
