@@ -1,23 +1,20 @@
-# Hi there, I'm Nick 👋
-**Full Stack Developer** from the Netherlands 🇳🇱
+# 👋 Hi there, I'm Nick a **Student Full Stack Developer**
 
 I'm passionate about building Full Stack applications with a focus on TypeScript and Python. I love creating tools that enhance developer productivity and improve user experiences.
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [🔥 Synthex](https://github.com/nick-vanduijn/synthex)
-⚡️ A fluent, type-safe TypeScript library for generating mock data from structured schemas  
+### [Synthex](https://github.com/nick-vanduijn/synthex)
+A fluent, type-safe TypeScript library for generating mock data from structured schemas  
 **Perfect for:** Testing, prototyping, and LLM development workflows  
 **Tech:** TypeScript, Type Safety, Schema Generation  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nick-vanduijn/synthex)
 
-### [📊 TEDx Dashboard](https://github.com/nick-vanduijn/tedx-dashboard)
+### [TEDx Dashboard](https://github.com/nick-vanduijn/tedx-dashboard)
 Interactive dashboard analyzing TedX video performances with beautiful visualizations  
 **Features:** Data analysis, Interactive charts, Performance metrics  
 **Tech:** Python, Data Visualization, Analytics  
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nick-vanduijn/tedx-dashboard)
 
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
@@ -42,15 +39,6 @@ Interactive dashboard analyzing TedX video performances with beautiful visualiza
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-## 📈 GitHub Stats
+## GitHub Stats
 
-![Nick's GitHub stats](https://github-readme-stats.vercel.app/api?username=nick-vanduijn&show_icons=true&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nick-vanduijn&layout=compact&theme=dark)
-
-## 💬 Let's Connect
-
-I'm always interested in collaborating on interesting projects or discussing development challenges!
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nick-vanduijn)
-
-⭐️ From [nick-vanduijn](https://github.com/nick-vanduijn)
