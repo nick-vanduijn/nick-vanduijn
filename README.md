@@ -1,13 +1,15 @@
+
+## Hey, I'm Nick 👋 
 I'm passionate about building Full Stack applications with a focus on TypeScript and Rust. I love creating tools that enhance developer productivity and improve user experiences through innovative solutions. 
 
 ## Featured Projects
 
-### [Synthex](https://github.com/nick-vanduijn/synthex)
+### Synthex [🔗](https://github.com/nick-vanduijn/synthex)
 A fluent, type-safe TypeScript library for generating mock data from structured schemas  
 **Perfect for:** Testing, prototyping, and LLM development workflows  
 **Tech:** TypeScript, Type Safety, Schema Generation  
 
-### [TEDx Dashboard](https://github.com/nick-vanduijn/tedx-dashboard)
+### TedX Video Performance Dashboard [🔗](https://github.com/nick-vanduijn/tedx-dashboard)
 Interactive dashboard analyzing TedX video performances with beautiful visualizations  
 **Features:** Data analysis, Interactive charts, Performance metrics  
 **Tech:** Python, Data Visualization, Analytics  
